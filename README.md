@@ -13,14 +13,6 @@ Software Developer focused on building scalable applications and maintaining cle
 
 ---
 
-### GitHub Professional Analytics
-<p align="left">
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=efeduzcay&show_icons=true&title_color=000000&icon_color=000000&text_color=333&bg_color=ffffff&hide_border=false" />
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeduzcay&layout=compact&title_color=000000&text_color=333&bg_color=ffffff&hide_border=false" />
-</p>
-
----
-
 ### Contact & Links
 **LinkedIn:** [linkedin.com/in/efeduzcay](https://linkedin.com/in/efeduzcay) | **Email:** [Your Email] | **Resume:** [Download PDF](./cv.pdf)
 
