@@ -22,8 +22,8 @@ A dedicated developer with analytical problem-solving skills, specializing in de
 ### GitHub Professional Analytics
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=efeduzcay&show_icons=true&title_color=000000&icon_color=000000&text_color=333&bg_color=ffffff&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeduzcay&layout=compact&title_color=000000&text_color=333&bg_color=ffffff&hide_border=false" />
+  <img height="180em" src="https://readme-stats-fast.vercel.app/api?username=efeduzcay&show_icons=true&title_color=000000&icon_color=000000&text_color=333&bg_color=ffffff&hide_border=false" />
+  <img height="180em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=efeduzcay&layout=compact&title_color=000000&text_color=333&bg_color=ffffff&hide_border=false" />
 </p>
 
 ---
