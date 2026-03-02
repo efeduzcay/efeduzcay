@@ -14,7 +14,7 @@ Software Developer focused on building scalable applications and maintaining cle
 ---
 
 ### Contact & Links
-**LinkedIn:** [linkedin.com/in/efeduzcay](https://linkedin.com/in/efeduzcay) | **Email:** duzcayefe@gmail.com | **Resume:** [Download PDF](./cv.pdf)
+**LinkedIn:** [linkedin.com/in/efeduzcay](https://linkedin.com/in/efeduzcay) | **Email:** duzcayefe@gmail.com | **Resume:** [PDF](https://github.com/efeduzcay/cv)
 
 ---
 <p align="right"><sub><i>Last Updated: Feb 2026</i></sub></p>
